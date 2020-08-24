@@ -5,13 +5,13 @@ body {
         font: 1.2em "Fira Sans", sans-serif;
 }
         h1 {
-    color: #fa1616;
+    color: #dd2c00;
 }
         h3 {
-    color: #81b214;
+    color: #519872;
 }
 hr {
-    border-color: #81b214;
+    border-color: #519872;
     border-style: dotted none none none;
     border-width: 7px;
     width: 3%;
