@@ -2,7 +2,7 @@ body {
         background-image:
     url("https://wallpaperaccess.com/full/1534922.jpg");
         color: white;
-        font: small-caps bold 20px/1 sans-serif;
+        font: 1.2em "Fira Sans", sans-serif;
 }
         h1 {
     color: #fa1616;
