@@ -2,16 +2,16 @@ body {
         background-image:
     url("https://wallpaperaccess.com/full/1534922.jpg");
         color: white;
-        font: small-caps bold 24px/1 sans-serif;
+        font: small-caps bold 20px/1 sans-serif;
 }
         h1 {
     color: #fa1616;
 }
         h3 {
-    color: #00b7c2;
+    color: #81b214;
 }
 hr {
-    border-color: #00b7c2;
+    border-color: #81b214;
     border-style: dotted none none none;
     border-width: 7px;
     width: 3%;
