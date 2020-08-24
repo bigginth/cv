@@ -2,7 +2,8 @@ body {
         background-image:
     url("https://wallpaperaccess.com/full/1534922.jpg");
         color: white;
-        font: 1.2em "Fira Sans", sans-serif;
+        font: 20px 
+        font-family: fantasy;
 }
         h1 {
     color: #dd2c00;
