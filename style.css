@@ -1,17 +1,15 @@
 body {
-        background-image:
-    url("https://wallpaperaccess.com/full/1534922.jpg");
-        color: white;
+        background-color: #1b262c;
         font: bold 18px/2 sans-serif;
 }
         h1 {
-    color: #dd2c00;
+    color: #00b7c2;
 }
         h3 {
-    color: #dd2c00;
+    color: #00b7c2;
 }
 hr {
-    border-color: #dd2c00;
+    border-color: #0f4c75;
     border-style: dotted none none none;
     border-width: 7px;
     width: 3%;
