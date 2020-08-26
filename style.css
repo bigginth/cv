@@ -19,3 +19,6 @@ hr {
 img {
     height: 200px;
 }
+
+.circular { border-radius= "100%"
+}
